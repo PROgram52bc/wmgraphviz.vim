@@ -568,6 +568,6 @@ setlocal errorformat=%EError:\ %f:%l:%m,%+Ccontext:\ %.%#,%WWarning:\ %m
 
 " Comments
 
-set commentstring="// %s"
+setlocal commentstring=//\ %s
 
 
